@@ -1,1 +1,1 @@
-# travel-plannerAI-with-langchain
+postgresql://sailesh123:l0ZKwOJgJdiqCneYGkwtk9IwnbmJzFKI@dpg-db9jhtnavr4c73eam140-a.ohio-postgres.render.com/saileshdb_ng1j
